@@ -15,15 +15,15 @@ function encryption(s) {
   var grid = s.match(new RegExp(".{1," + nextSqrtResult + "}", "g"));
 
   var encryptedString = "";
-//   console.log(
-//     grid,
-//     "sqrtResult",
-//     sqrtResult,
-//     "nextSqrtResult ",
-//     nextSqrtResult,
-//     "length",
-//     wordLength
-//   );
+  //   console.log(
+  //     grid,
+  //     "sqrtResult",
+  //     sqrtResult,
+  //     "nextSqrtResult ",
+  //     nextSqrtResult,
+  //     "length",
+  //     wordLength
+  //   );
 
   for (let x = 0; x < nextSqrtResult; x++) {
     for (let y = 0; y < sqrtResult; y++) {
