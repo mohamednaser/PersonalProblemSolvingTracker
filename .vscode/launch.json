@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/Beautiful_Triplets.js"
+            "program": "${workspaceFolder}/chocolate-feast.js"
         }
     ]
 }

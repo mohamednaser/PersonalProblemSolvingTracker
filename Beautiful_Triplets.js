@@ -4,6 +4,7 @@ function beautifulTriplets(d, arr) {
   var counter = 0;
 
   arr.forEach(element => {
+      
     for (let x = counter; x <= counter + d ; x++) {
       if (arr[x] - element == d) {
         for (let y = x; y <= x + d; y++) {
