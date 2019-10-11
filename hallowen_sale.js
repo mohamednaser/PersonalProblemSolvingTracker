@@ -15,5 +15,5 @@ function howManyGames(p, d, m, s) {
   return numberOfGames;
 }
 
-// console.log(howManyGames(20, 3, 6, 80));
+console.log(howManyGames(20, 3, 6, 80));
 console.log(howManyGames(20, 3, 6, 85)); // expected result
