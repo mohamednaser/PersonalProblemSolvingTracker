@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/hallowen_sale.js"
+      "program": "${workspaceFolder}/Palindrome.js"
     }
   ]
 }
