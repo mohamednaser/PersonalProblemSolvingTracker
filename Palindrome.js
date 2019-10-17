@@ -1,16 +1,15 @@
-// Complete the palindromeIndex function below.
 function palindromeIndex(s) {
-  var start = 0,
-    end = s.length;
-
-  while (start < end) {
-    if (s[start] == s[end]) {
-      start++;
-      end--;
-    } else return start;
-  }
-
+  for (var i = 0, j = s.length - 1; i < j; i++, j--)
+    if (s.charAt(i) != s.charAt(j))
+      if (isPalindrome(s, i)) return i;
+      else if (isPalindrome(s, j)) return j;
   return -1;
+}
+
+function isPalindrome(s, index) {
+  for (var i = index + 1, j = s.length - 1 - index; i < j; i++, j--)
+    if (s.charAt(i) != s.charAt(j)) return false;
+  return true;
 }
 
 console.log(palindromeIndex("aaab"));
