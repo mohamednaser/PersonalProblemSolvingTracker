@@ -8,7 +8,7 @@
       "type": "node",
       "request": "launch",
       "name": "Launch Program",
-      "program": "${workspaceFolder}/game-of-thrones-1.js"
+      "program": "${workspaceFolder}/Bubble_sort.js"
     }
   ]
 }
