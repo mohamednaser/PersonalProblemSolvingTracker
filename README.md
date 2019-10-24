@@ -13,3 +13,23 @@ This Repo Will Contains All My Success Submissions In HackerRank Platform sorted
 #### [Challenage Details On Hacker Rank](https://www.hackerrank.com/challenges/electronics-shop/problem)
 
 #### [My Solution](https://github.com/mohamednaser/HackerRankChallenges/blob/master/Electronics_Shop_problem.js)
+
+<details>
+  <summary>Easy Problems </summary>
+  
+  ## Heading
+  1. string 
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+<details>
+  <summary>Meduim Problems </summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
