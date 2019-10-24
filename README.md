@@ -6,14 +6,7 @@ This Repo Will Contains All My Success Submissions In HackerRank Platform sorted
 
 ## Difficulty Levels
 
-![Developer](https://img.shields.io/badge/difficulty-Easy-green)  
-![Developer](https://img.shields.io/badge/difficulty-Medium-blue)  
-![Developer](https://img.shields.io/badge/difficulty-Hard-red)
-
-## Problem Type
-
-![Developer](https://img.shields.io/badge/RelatedTo-strings-green)  
-![Developer](https://img.shields.io/badge/RelatedTo-soring-green)
+![Developer](https://img.shields.io/badge/difficulty-Easy-green)   ![Developer](https://img.shields.io/badge/difficulty-Medium-blue)  ![Developer](https://img.shields.io/badge/difficulty-Hard-red)
 
 ### - Electronics Shop Problem ![Developer](https://img.shields.io/badge/difficulty-easy-green) ![Developer](https://img.shields.io/badge/Score-15-green)
 
