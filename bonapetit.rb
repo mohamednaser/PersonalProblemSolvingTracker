@@ -9,9 +9,11 @@ def bonAppetit(bill, k, b)
 
   banShouldPay = b - (totalSharedCost / 2)
 
-  return 'Bon Appetit' if banShouldPay == 0
-
-  banShouldPay
+  if banShouldPay == 0
+    puts 'Bon Appetit'
+  else
+    p banShouldPay
+  end
 end
 
 p bonAppetit([3, 10, 2, 9], 1, 12)
