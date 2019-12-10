@@ -15,21 +15,35 @@ This Repo Will Contains All My Success Submissions In HackerRank Platform sorted
 #### [My Solution](https://github.com/mohamednaser/HackerRankChallenges/blob/master/Electronics_Shop_problem.js)
 
 <details>
-  
-  1. Drawing Book 
-    * [Drawing Book on HackerRank](https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/drawing-book)
-    * [My solution (Java Script)]()
-  2. list
-     * With some
-     * Sub bullets
+
+<summary>Easy Problems </summary>
+
+1. Drawing Book
+
+- [Drawing Book on HackerRank](https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/drawing-book)
+
+- [My solution (Java Script)](https://github.com/mohamednaser/HackerRankChallenges/blob/master/Draw_book.js)
+
+2. Drawing Book ![Score](https://img.shields.io/badge/Score-10-green)
+
+- [Problem Details on HackerRank](https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/drawing-book)
+
+* [My solution (Java Script)](https://github.com/mohamednaser/HackerRankChallenges/blob/master/Draw_book.js)
+
 </details>
 
 <details>
-  <summary>Meduim Problems </summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+
+<summary>Meduim Problems </summary>
+
+## Heading
+
+1. A numbered
+
+2. list
+
+- With some
+
+- Sub bullets
+
 </details>
