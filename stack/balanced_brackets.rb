@@ -11,6 +11,7 @@ def balanced_brackets?(string)
     else
       # continue and skip normal charcters
       next unless close_symbols.include? element
+
       # we can check with index but i have no time now :(
       if check_close_tag(opened_symbols_stack.last, element)
         opened_symbols_stack.pop
@@ -32,7 +33,7 @@ def check_close_tag(open_tag, close_tag)
 
   false
 end
-
+({[]})
 puts balanced_brackets?('(hello)[world]')
 # # => true
 
@@ -41,3 +42,8 @@ puts balanced_brackets?('([)]')
 
 puts balanced_brackets?('[({}{}{})([])]')
 # => true
+
+# Hint :
+# use this helpers if you need 
+# watch stack video here https://www.coursera.org/lecture/data-structures/stacks-UdKzQ
+# watch anaylsis for classic stack problem balanced parentheses https://www.youtube.com/watch?v=CCyEXcNamC4
