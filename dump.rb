@@ -35,7 +35,3 @@ puts balanced_brackets?('[({}{}{})([])]')
 puts balanced_brackets?('[([)])]')
 # => false
 
-# Hint :
-# use this helpers if you need
-# watch stack video here https://www.coursera.org/lecture/data-structures/stacks-UdKzQ
-# watch anaylsis for classic stack problem balanced parentheses https://www.youtube.com/watch?v=CCyEXcNamC4
